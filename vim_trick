@@ -1,0 +1,15 @@
+how to replace the word 
+
+step 1: open vim editor
+
+step 2: now type %s/word which you want to replace/new word which replaced the existing word 
+
+example:
+
+Before replace 
+Hello this is my sentence for testing the vim editor tricks
+
+:%s/Hello/hello_friends 
+
+After replace
+hello_friends this is my sentence for testing the vim editor tricks
